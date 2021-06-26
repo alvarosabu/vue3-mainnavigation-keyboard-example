@@ -6,5 +6,6 @@ export default defineComponent({
 });
 </script>
 <template>
+  <MainNavigation />
   <router-view />
 </template>
